@@ -5,8 +5,7 @@
 #include <string.h>
 using namespace std;
 
-void name_list()
-{
+void name_list(){
     cout << " (1)  decimal to binary\n";
     cout << " (2)  binary to decimal\n";
 
